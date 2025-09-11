@@ -1,0 +1,2 @@
+ // temp=num;
+    // cout<<n;
